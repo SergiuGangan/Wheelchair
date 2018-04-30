@@ -1,0 +1,1470 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+                              VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o (__aeabi_uldivmod)
+c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+                              c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+                              c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+                              c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o (exit)
+c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+                              c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+                              c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o (__libc_init_array)
+c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+                              c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o (memset)
+c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+                              c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+uwTick              0x4               VisualGDB/Debug/stm32f4xx_hal.o
+pFlash              0x20              VisualGDB/Debug/stm32f4xx_hal_flash.o
+VarValue            0x2               VisualGDB/Debug/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crti.o
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crti.o
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crti.o
+ .data          0x00000000        0x4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+ .text          0x00000000       0x74 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .debug_line    0x00000000       0x89 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .debug_info    0x00000000       0x26 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .debug_abbrev  0x00000000       0x14 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .debug_aranges
+                0x00000000       0x20 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .debug_str     0x00000000       0xad c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .ARM.attributes
+                0x00000000       0x21 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+ .text          0x00000000        0x0 VisualGDB/Debug/eeprom.o
+ .data          0x00000000        0x0 VisualGDB/Debug/eeprom.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/eeprom.o
+ .text          0x00000000        0x0 VisualGDB/Debug/main.o
+ .data          0x00000000        0x0 VisualGDB/Debug/main.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/main.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_it.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_it.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_it.o
+ .text          0x00000000        0x0 VisualGDB/Debug/system_stm32f4xx.o
+ .data          0x00000000        0x0 VisualGDB/Debug/system_stm32f4xx.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/system_stm32f4xx.o
+ .rodata.APBPrescTable
+                0x00000000        0x8 VisualGDB/Debug/system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xf4 VisualGDB/Debug/system_stm32f4xx.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .rodata.GPIO_PIN
+                0x00000000        0x2 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .data.BUTTON_PORT
+                0x00000000        0x4 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .rodata.BUTTON_PIN
+                0x00000000        0x2 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .rodata.BUTTON_IRQn
+                0x00000000        0x1 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .data.SpixTimeout
+                0x00000000        0x4 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .bss.hnucleo_Spi
+                0x00000000       0x58 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .bss.hnucleo_Adc
+                0x00000000       0x48 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .bss.sConfig   0x00000000       0x10 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.BSP_GetVersion
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.BSP_LED_DeInit
+                0x00000000       0x40 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.BSP_LED_Off
+                0x00000000       0x28 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.BSP_PB_Init
+                0x00000000       0xac VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.BSP_PB_DeInit
+                0x00000000       0x38 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.BSP_PB_GetState
+                0x00000000       0x2c VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.SPIx_MspInit
+                0x00000000       0xb8 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.SPIx_Init
+                0x00000000       0x74 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.SPIx_WriteReadData
+                0x00000000       0x44 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.SPIx_Write
+                0x00000000       0x40 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.SPIx_Error
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.SD_IO_Init
+                0x00000000       0x74 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.SD_IO_CSState
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.SD_IO_WriteReadData
+                0x00000000       0x22 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.SD_IO_WriteByte
+                0x00000000       0x22 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.LCD_IO_Init
+                0x00000000       0x90 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.LCD_IO_WriteReg
+                0x00000000       0x44 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.LCD_IO_WriteData
+                0x00000000       0x44 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.LCD_IO_WriteMultipleData
+                0x00000000       0xc8 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.LCD_Delay
+                0x00000000       0x16 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.ADCx_MspInit
+                0x00000000       0x68 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.ADCx_MspDeInit
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.ADCx_Init
+                0x00000000       0x68 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.ADCx_DeInit
+                0x00000000       0x24 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.BSP_JOY_Init
+                0x00000000       0x40 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.BSP_JOY_DeInit
+                0x00000000        0xc VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text.BSP_JOY_GetState
+                0x00000000       0xc8 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x654 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000      0x18c VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000      0x43c VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_SelectLSEMode
+                0x00000000       0x3c VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_EnablePLLI2S
+                0x00000000       0xa0 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_DisablePLLI2S
+                0x00000000       0x44 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_EnablePLLSAI
+                0x00000000       0x9c VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_DisablePLLSAI
+                0x00000000       0x48 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCC_DeInit
+                0x00000000      0x1e8 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x138 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_Init
+                0x00000000       0x86 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_DeInit
+                0x00000000       0x64 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_MspInit
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_MspDeInit
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_Start
+                0x00000000      0x14c VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_Stop
+                0x00000000       0x66 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_PollForConversion
+                0x00000000      0x104 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_PollForEvent
+                0x00000000       0xa8 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_Start_IT
+                0x00000000      0x160 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_Stop_IT
+                0x00000000       0x7a VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_IRQHandler
+                0x00000000      0x282 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_Start_DMA
+                0x00000000      0x1a4 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_Stop_DMA
+                0x00000000       0x94 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_GetValue
+                0x00000000       0x1a VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_ConvCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_ConvHalfCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_LevelOutOfWindowCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_ErrorCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_ConfigChannel
+                0x00000000      0x24c VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_AnalogWDGConfig
+                0x00000000       0xc0 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_GetState
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.HAL_ADC_GetError
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.ADC_Init
+                0x00000000      0x1f4 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.ADC_DMAConvCplt
+                0x00000000       0xa6 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.ADC_DMAHalfConvCplt
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text.ADC_DMAError
+                0x00000000       0x2e VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .debug_info    0x00000000     0x14a2 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .debug_abbrev  0x00000000      0x29c VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .debug_aranges
+                0x00000000       0xe8 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .debug_ranges  0x00000000       0xd8 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .debug_line    0x00000000      0x7d2 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .debug_str     0x00000000      0xd30 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .comment       0x00000000       0x12 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .debug_frame   0x00000000      0x3fc VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .ARM.attributes
+                0x00000000       0x39 VisualGDB/Debug/stm32f4xx_hal_adc.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_EnableIRQ
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_DisableIRQ
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_GetPendingIRQ
+                0x00000000       0x38 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_SetPendingIRQ
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_ClearPendingIRQ
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_GetActive
+                0x00000000       0x38 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_GetPriority
+                0x00000000       0x50 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_DecodePriority
+                0x00000000       0x6e VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_SystemReset
+                0x00000000       0x28 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_SystemReset
+                0x00000000        0xc VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_MPU_Disable
+                0x00000000       0x2c VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_MPU_Enable
+                0x00000000       0x3c VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x88 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000        0xe VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x2c VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x1e VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x1e VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x38 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0xc VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0xe VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x9c VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x140 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_Lock
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x38 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_OB_Launch
+                0x00000000       0x28 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_GetError
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .text.HAL_DMAEx_MultiBufferStart
+                0x00000000       0x96 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .text.HAL_DMAEx_MultiBufferStart_IT
+                0x00000000     0x1290 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .text.HAL_DMAEx_ChangeMemory
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .text.DMA_MultiBufferSetConfig
+                0x00000000       0x4c VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .debug_info    0x00000000      0xd96 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .debug_abbrev  0x00000000      0x256 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .debug_aranges
+                0x00000000       0x38 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .debug_ranges  0x00000000       0x28 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .debug_line    0x00000000      0xf4c VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .debug_str     0x00000000      0x9a6 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .comment       0x00000000       0x12 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .debug_frame   0x00000000       0xac VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .ARM.attributes
+                0x00000000       0x39 VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_DeInit
+                0x00000000       0x10 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_OscConfig
+                0x00000000      0x484 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0xd0 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetSysClockFreq
+                0x00000000      0x1b0 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x28 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x28 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x128 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x64 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x28 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0xe VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0xac VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0xdc VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x46 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_AdvOBProgram
+                0x00000000       0x48 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_AdvOBGetConfig
+                0x00000000       0x24 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OB_SelectPCROP
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OB_DeSelectPCROP
+                0x00000000       0x30 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0x44 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0x40 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_EnablePCROP
+                0x00000000       0x40 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_DisablePCROP
+                0x00000000       0x44 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x60 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_BOR_LevelConfig
+                0x00000000       0x3c VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_GetUser
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_GetWRP
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x40 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedStart
+                0x00000000      0x17c VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedStart_IT
+                0x00000000      0x18c VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedStop
+                0x00000000       0x96 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedPollForConversion
+                0x00000000       0xe6 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedStop_IT
+                0x00000000       0xa6 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedGetValue
+                0x00000000       0x70 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_MultiModeStart_DMA
+                0x00000000      0x178 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_MultiModeStop_DMA
+                0x00000000       0x98 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_MultiModeGetValue
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedConvCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedConfigChannel
+                0x00000000      0x32c VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_MultiModeConfigChannel
+                0x00000000       0x8c VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.ADC_MultiModeDMAConvCplt
+                0x00000000       0xa6 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.ADC_MultiModeDMAHalfConvCplt
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text.ADC_MultiModeDMAError
+                0x00000000       0x2e VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .debug_info    0x00000000     0x1320 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .debug_abbrev  0x00000000      0x297 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .debug_aranges
+                0x00000000       0x90 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .debug_ranges  0x00000000       0x80 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .debug_line    0x00000000      0x6de VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .debug_str     0x00000000      0xd6a VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .comment       0x00000000       0x12 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .debug_frame   0x00000000      0x250 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .ARM.attributes
+                0x00000000       0x39 VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_DeInit
+                0x00000000       0x58 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_MspDeInit
+                0x00000000        0xe VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_GetTickPrio
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_SetTickFreq
+                0x00000000       0x40 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_GetTickFreq
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_SuspendTick
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_ResumeTick
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_GetHalVersion
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_GetREVID
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_GetDEVID
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x20 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_EnableCompensationCell
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_DisableCompensationCell
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal.o
+ .text.HAL_GetUID
+                0x00000000       0x3c VisualGDB/Debug/stm32f4xx_hal.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableBkUpReg
+                0x00000000       0x4c VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableBkUpReg
+                0x00000000       0x4c VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x00000000       0xf4 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableOverDrive
+                0x00000000       0xa0 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnterUnderDriveSTOPMode
+                0x00000000       0xa4 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x1e4 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_ReadPin
+                0x00000000       0x30 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x50 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x30 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000       0x16 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Init
+                0x00000000      0x15c VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_DeInit
+                0x00000000       0x98 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Start
+                0x00000000       0x76 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Start_IT
+                0x00000000       0xc0 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Abort
+                0x00000000       0xe0 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x44 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x1be VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x314 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0xa8 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0xd4 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_GetState
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_GetError
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.DMA_SetConfig
+                0x00000000       0x5c VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.DMA_CalcBaseAndBitshift
+                0x00000000       0x6c VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text.DMA_CheckFifoParam
+                0x00000000       0xf4 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .rodata.flagBitshiftOffset.9017
+                0x00000000        0x8 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .debug_info    0x00000000     0x1127 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .debug_abbrev  0x00000000      0x2c0 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .debug_aranges
+                0x00000000       0x90 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .debug_ranges  0x00000000       0x80 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .debug_line    0x00000000      0x673 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .debug_str     0x00000000      0xba5 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .comment       0x00000000       0x12 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .debug_frame   0x00000000      0x250 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .ARM.attributes
+                0x00000000       0x39 VisualGDB/Debug/stm32f4xx_hal_dma.o
+ .text          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .data          0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_Init
+                0x00000000       0xd6 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_DeInit
+                0x00000000       0x50 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_MspInit
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_MspDeInit
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_Transmit
+                0x00000000      0x2c0 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_Receive
+                0x00000000      0x312 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_TransmitReceive
+                0x00000000      0x424 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_Transmit_IT
+                0x00000000      0x14c VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_Receive_IT
+                0x00000000      0x158 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_TransmitReceive_IT
+                0x00000000      0x160 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_Transmit_DMA
+                0x00000000      0x168 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_Receive_DMA
+                0x00000000      0x18c VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_TransmitReceive_DMA
+                0x00000000      0x1fc VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_Abort
+                0x00000000      0x154 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_Abort_IT
+                0x00000000      0x1cc VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_DMAPause
+                0x00000000       0x44 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_DMAResume
+                0x00000000       0x44 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_DMAStop
+                0x00000000       0x4e VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_IRQHandler
+                0x00000000      0x1b0 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_TxCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_RxCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_TxRxCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_TxHalfCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_RxHalfCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_TxRxHalfCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_ErrorCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_AbortCpltCallback
+                0x00000000       0x14 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_GetState
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.HAL_SPI_GetError
+                0x00000000       0x18 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMATransmitCplt
+                0x00000000       0x9a VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMAReceiveCplt
+                0x00000000       0xee VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMATransmitReceiveCplt
+                0x00000000       0xe2 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMAHalfTransmitCplt
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMAHalfReceiveCplt
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMAHalfTransmitReceiveCplt
+                0x00000000       0x1c VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMAError
+                0x00000000       0x40 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMAAbortOnError
+                0x00000000       0x28 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMATxAbortCallback
+                0x00000000       0xb4 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_DMARxAbortCallback
+                0x00000000       0x96 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_2linesRxISR_8BIT
+                0x00000000       0x74 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_2linesRxISR_8BITCRC
+                0x00000000       0x42 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_2linesTxISR_8BIT
+                0x00000000       0x86 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_2linesRxISR_16BIT
+                0x00000000       0x74 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_2linesRxISR_16BITCRC
+                0x00000000       0x36 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_2linesTxISR_16BIT
+                0x00000000       0x88 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_RxISR_8BITCRC
+                0x00000000       0x28 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_RxISR_8BIT
+                0x00000000       0x80 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_RxISR_16BITCRC
+                0x00000000       0x36 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_RxISR_16BIT
+                0x00000000       0x80 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_TxISR_8BIT
+                0x00000000       0x5c VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_TxISR_16BIT
+                0x00000000       0x5e VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_WaitFlagStateUntilTimeout
+                0x00000000       0xd2 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_CheckFlag_BSY
+                0x00000000       0x3c VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_CloseRxTx_ISR
+                0x00000000      0x11c VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_CloseRx_ISR
+                0x00000000       0xb6 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_CloseTx_ISR
+                0x00000000       0xc4 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_AbortRx_ISR
+                0x00000000       0x84 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text.SPI_AbortTx_ISR
+                0x00000000       0x34 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .debug_info    0x00000000     0x1e3b VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .debug_abbrev  0x00000000      0x2e6 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .debug_aranges
+                0x00000000      0x1e8 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .debug_ranges  0x00000000      0x1d8 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .debug_line    0x00000000      0xde5 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .debug_str     0x00000000      0xfe9 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .comment       0x00000000       0x12 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .debug_frame   0x00000000      0x894 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .ARM.attributes
+                0x00000000       0x39 VisualGDB/Debug/stm32f4xx_hal_spi.o
+ .text          0x00000000        0x0 VisualGDB/Debug/startup_stm32f446xx.o
+ .data          0x00000000        0x0 VisualGDB/Debug/startup_stm32f446xx.o
+ .bss           0x00000000        0x0 VisualGDB/Debug/startup_stm32f446xx.o
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000       0x28 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .debug_info    0x00000000      0x952 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .debug_abbrev  0x00000000      0x1cd c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .debug_loc     0x00000000       0x1e c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000000       0x20 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .debug_line    0x00000000      0x18c c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .debug_str     0x00000000      0x62d c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .comment       0x00000000       0x12 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x39 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000       0x64 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .rodata        0x00000000        0x4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .debug_info    0x00000000      0x8a4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000      0x15c c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000       0x18 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .debug_line    0x00000000      0x10a c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .debug_str     0x00000000      0x5e1 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .comment       0x00000000       0x12 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x37 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+ .text          0x00000000       0x94 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .debug_info    0x00000000      0xe1d c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000      0x1a8 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .debug_loc     0x00000000      0x175 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000000       0x20 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .debug_line    0x00000000      0x223 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .debug_str     0x00000000      0x90e c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .comment       0x00000000       0x12 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x38 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x39 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .debug_info    0x00000000       0x9a c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .debug_abbrev  0x00000000       0x61 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .debug_aranges
+                0x00000000       0x20 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .debug_line    0x00000000       0x6b c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .debug_str     0x00000000      0x1a4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .comment       0x00000000       0x12 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x39 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtend.o
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtend.o
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtend.o
+ .eh_frame      0x00000000        0x4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtend.o
+ .text          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtn.o
+ .data          0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtn.o
+ .bss           0x00000000        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00080000         xr
+SRAM             0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crti.o
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4/crt0.o
+START GROUP
+LOAD VisualGDB/Debug/eeprom.o
+LOAD VisualGDB/Debug/main.o
+LOAD VisualGDB/Debug/stm32f4xx_it.o
+LOAD VisualGDB/Debug/system_stm32f4xx.o
+LOAD VisualGDB/Debug/stm32f4xx_nucleo.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_adc.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_cortex.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_flash.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_dma_ex.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_rcc.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_adc_ex.o
+LOAD VisualGDB/Debug/stm32f4xx_hal.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_gpio.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_dma.o
+LOAD VisualGDB/Debug/stm32f4xx_hal_spi.o
+LOAD VisualGDB/Debug/startup_stm32f446xx.o
+END GROUP
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libstdc++_nano.a
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libm.a
+START GROUP
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libnosys.a
+END GROUP
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtend.o
+LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtn.o
+                0x20020000                _estack = 0x20020000
+
+.isr_vector     0x08000000      0x1c4
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1c4 VisualGDB/Debug/startup_stm32f446xx.o
+                0x08000000                g_pfnVectors
+                0x080001c4                . = ALIGN (0x4)
+
+.text           0x080001c4     0x2840
+                0x080001c4                . = ALIGN (0x4)
+                0x080001c4                _stext = .
+ *(.text)
+ .text          0x080001c4       0x88 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+ .text          0x0800024c       0x30 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+                0x0800024c                __aeabi_uldivmod
+ .text          0x0800027c      0x2cc c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+                0x0800027c                __udivmoddi4
+ .text          0x08000548        0x4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+                0x08000548                __aeabi_idiv0
+                0x08000548                __aeabi_ldiv0
+ .text          0x0800054c       0x48 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+                0x0800054c                __libc_init_array
+ *(.text*)
+ .text.EE_Init  0x08000594      0x3b8 VisualGDB/Debug/eeprom.o
+                0x08000594                EE_Init
+ .text.EE_VerifyPageFullyErased
+                0x0800094c       0x4c VisualGDB/Debug/eeprom.o
+ .text.EE_ReadVariable
+                0x08000998       0x94 VisualGDB/Debug/eeprom.o
+                0x08000998                EE_ReadVariable
+ .text.EE_WriteVariable
+                0x08000a2c       0x44 VisualGDB/Debug/eeprom.o
+                0x08000a2c                EE_WriteVariable
+ .text.EE_Format
+                0x08000a70       0xa4 VisualGDB/Debug/eeprom.o
+ .text.EE_FindValidPage
+                0x08000b14       0x8c VisualGDB/Debug/eeprom.o
+ .text.EE_VerifyPageFullWriteVariable
+                0x08000ba0       0xbc VisualGDB/Debug/eeprom.o
+ .text.EE_PageTransfer
+                0x08000c5c      0x178 VisualGDB/Debug/eeprom.o
+ .text.main     0x08000dd4      0x2d0 VisualGDB/Debug/main.o
+                0x08000dd4                main
+ .text.SystemClock_Config
+                0x080010a4       0xd4 VisualGDB/Debug/main.o
+ .text.Error_Handler
+                0x08001178       0x12 VisualGDB/Debug/main.o
+ .text.NMI_Handler
+                0x0800118a        0xe VisualGDB/Debug/stm32f4xx_it.o
+                0x0800118a                NMI_Handler
+ .text.HardFault_Handler
+                0x08001198        0x6 VisualGDB/Debug/stm32f4xx_it.o
+                0x08001198                HardFault_Handler
+ .text.MemManage_Handler
+                0x0800119e        0x6 VisualGDB/Debug/stm32f4xx_it.o
+                0x0800119e                MemManage_Handler
+ .text.BusFault_Handler
+                0x080011a4        0x6 VisualGDB/Debug/stm32f4xx_it.o
+                0x080011a4                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080011aa        0x6 VisualGDB/Debug/stm32f4xx_it.o
+                0x080011aa                UsageFault_Handler
+ .text.SVC_Handler
+                0x080011b0        0xe VisualGDB/Debug/stm32f4xx_it.o
+                0x080011b0                SVC_Handler
+ .text.DebugMon_Handler
+                0x080011be        0xe VisualGDB/Debug/stm32f4xx_it.o
+                0x080011be                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080011cc        0xe VisualGDB/Debug/stm32f4xx_it.o
+                0x080011cc                PendSV_Handler
+ .text.SysTick_Handler
+                0x080011da        0xc VisualGDB/Debug/stm32f4xx_it.o
+                0x080011da                SysTick_Handler
+ *fill*         0x080011e6        0x2 
+ .text.SystemInit
+                0x080011e8       0x6c VisualGDB/Debug/system_stm32f4xx.o
+                0x080011e8                SystemInit
+ .text.BSP_LED_Init
+                0x08001254       0x6c VisualGDB/Debug/stm32f4xx_nucleo.o
+                0x08001254                BSP_LED_Init
+ .text.BSP_LED_On
+                0x080012c0       0x28 VisualGDB/Debug/stm32f4xx_nucleo.o
+                0x080012c0                BSP_LED_On
+ .text.BSP_LED_Toggle
+                0x080012e8       0x28 VisualGDB/Debug/stm32f4xx_nucleo.o
+                0x080012e8                BSP_LED_Toggle
+ .text.HAL_RCC_GetSysClockFreq
+                0x08001310      0x340 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+                0x08001310                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_OscConfig
+                0x08001650      0x4b4 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+                0x08001650                HAL_RCC_OscConfig
+ .text.NVIC_SetPriorityGrouping
+                0x08001b04       0x48 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_GetPriorityGrouping
+                0x08001b4c       0x1c VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_SetPriority
+                0x08001b68       0x54 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.NVIC_EncodePriority
+                0x08001bbc       0x66 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ *fill*         0x08001c22        0x2 
+ .text.SysTick_Config
+                0x08001c24       0x44 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08001c68       0x16 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+                0x08001c68                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08001c7e       0x38 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+                0x08001c7e                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x08001cb6       0x18 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+                0x08001cb6                HAL_SYSTICK_Config
+ *fill*         0x08001cce        0x2 
+ .text.HAL_FLASH_Program
+                0x08001cd0       0xa8 VisualGDB/Debug/stm32f4xx_hal_flash.o
+                0x08001cd0                HAL_FLASH_Program
+ .text.HAL_FLASH_Unlock
+                0x08001d78       0x44 VisualGDB/Debug/stm32f4xx_hal_flash.o
+                0x08001d78                HAL_FLASH_Unlock
+ .text.FLASH_WaitForLastOperation
+                0x08001dbc       0x80 VisualGDB/Debug/stm32f4xx_hal_flash.o
+                0x08001dbc                FLASH_WaitForLastOperation
+ .text.FLASH_Program_DoubleWord
+                0x08001e3c       0x5c VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.FLASH_Program_Word
+                0x08001e98       0x44 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.FLASH_Program_HalfWord
+                0x08001edc       0x48 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.FLASH_Program_Byte
+                0x08001f24       0x44 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.FLASH_SetErrorCode
+                0x08001f68       0xcc VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .text.HAL_RCC_ClockConfig
+                0x08002034      0x1c4 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+                0x08002034                HAL_RCC_ClockConfig
+ .text.HAL_FLASHEx_Erase
+                0x080021f8       0xe0 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+                0x080021f8                HAL_FLASHEx_Erase
+ .text.FLASH_MassErase
+                0x080022d8       0x48 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_Erase_Sector
+                0x08002320       0x90 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+                0x08002320                FLASH_Erase_Sector
+ .text.FLASH_FlushCaches
+                0x080023b0       0x8c VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+                0x080023b0                FLASH_FlushCaches
+ .text.HAL_Init
+                0x0800243c       0x44 VisualGDB/Debug/stm32f4xx_hal.o
+                0x0800243c                HAL_Init
+ .text.HAL_MspInit
+                0x08002480        0xe VisualGDB/Debug/stm32f4xx_hal.o
+                0x08002480                HAL_MspInit
+ *fill*         0x0800248e        0x2 
+ .text.HAL_InitTick
+                0x08002490       0x60 VisualGDB/Debug/stm32f4xx_hal.o
+                0x08002490                HAL_InitTick
+ .text.HAL_IncTick
+                0x080024f0       0x28 VisualGDB/Debug/stm32f4xx_hal.o
+                0x080024f0                HAL_IncTick
+ .text.HAL_GetTick
+                0x08002518       0x18 VisualGDB/Debug/stm32f4xx_hal.o
+                0x08002518                HAL_GetTick
+ .text.HAL_Delay
+                0x08002530       0x44 VisualGDB/Debug/stm32f4xx_hal.o
+                0x08002530                HAL_Delay
+ .text.HAL_PWREx_EnableOverDrive
+                0x08002574       0xa0 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+                0x08002574                HAL_PWREx_EnableOverDrive
+ .text.HAL_GPIO_Init
+                0x08002614      0x324 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+                0x08002614                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08002938       0x32 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+                0x08002938                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x0800296a       0x24 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+                0x0800296a                HAL_GPIO_TogglePin
+ *fill*         0x0800298e        0x2 
+ .text.Reset_Handler
+                0x08002990       0x48 VisualGDB/Debug/startup_stm32f446xx.o
+                0x08002990                Reset_Handler
+ .text.Default_Handler
+                0x080029d8        0x2 VisualGDB/Debug/startup_stm32f446xx.o
+                0x080029d8                RTC_Alarm_IRQHandler
+                0x080029d8                EXTI2_IRQHandler
+                0x080029d8                TIM8_CC_IRQHandler
+                0x080029d8                SPI4_IRQHandler
+                0x080029d8                TIM1_CC_IRQHandler
+                0x080029d8                DMA2_Stream5_IRQHandler
+                0x080029d8                DMA1_Stream5_IRQHandler
+                0x080029d8                PVD_IRQHandler
+                0x080029d8                SDIO_IRQHandler
+                0x080029d8                TAMP_STAMP_IRQHandler
+                0x080029d8                CAN2_RX1_IRQHandler
+                0x080029d8                EXTI3_IRQHandler
+                0x080029d8                TIM8_TRG_COM_TIM14_IRQHandler
+                0x080029d8                TIM1_UP_TIM10_IRQHandler
+                0x080029d8                TIM8_UP_TIM13_IRQHandler
+                0x080029d8                I2C3_ER_IRQHandler
+                0x080029d8                FMPI2C1_Event_IRQHandler
+                0x080029d8                EXTI0_IRQHandler
+                0x080029d8                I2C2_EV_IRQHandler
+                0x080029d8                DMA1_Stream2_IRQHandler
+                0x080029d8                CAN1_RX0_IRQHandler
+                0x080029d8                FPU_IRQHandler
+                0x080029d8                OTG_HS_WKUP_IRQHandler
+                0x080029d8                CAN2_SCE_IRQHandler
+                0x080029d8                DMA2_Stream2_IRQHandler
+                0x080029d8                SPI1_IRQHandler
+                0x080029d8                TIM6_DAC_IRQHandler
+                0x080029d8                TIM1_BRK_TIM9_IRQHandler
+                0x080029d8                DCMI_IRQHandler
+                0x080029d8                CAN2_RX0_IRQHandler
+                0x080029d8                DMA2_Stream3_IRQHandler
+                0x080029d8                SAI2_IRQHandler
+                0x080029d8                USART6_IRQHandler
+                0x080029d8                USART3_IRQHandler
+                0x080029d8                CAN1_RX1_IRQHandler
+                0x080029d8                UART5_IRQHandler
+                0x080029d8                DMA2_Stream0_IRQHandler
+                0x080029d8                TIM4_IRQHandler
+                0x080029d8                QUADSPI_IRQHandler
+                0x080029d8                I2C1_EV_IRQHandler
+                0x080029d8                DMA1_Stream6_IRQHandler
+                0x080029d8                DMA1_Stream1_IRQHandler
+                0x080029d8                UART4_IRQHandler
+                0x080029d8                TIM3_IRQHandler
+                0x080029d8                RCC_IRQHandler
+                0x080029d8                TIM8_BRK_TIM12_IRQHandler
+                0x080029d8                Default_Handler
+                0x080029d8                CEC_IRQHandler
+                0x080029d8                EXTI15_10_IRQHandler
+                0x080029d8                ADC_IRQHandler
+                0x080029d8                DMA1_Stream7_IRQHandler
+                0x080029d8                TIM7_IRQHandler
+                0x080029d8                CAN2_TX_IRQHandler
+                0x080029d8                TIM5_IRQHandler
+                0x080029d8                DMA2_Stream7_IRQHandler
+                0x080029d8                I2C3_EV_IRQHandler
+                0x080029d8                EXTI9_5_IRQHandler
+                0x080029d8                RTC_WKUP_IRQHandler
+                0x080029d8                SPDIF_RX_IRQHandler
+                0x080029d8                SPI2_IRQHandler
+                0x080029d8                OTG_HS_EP1_IN_IRQHandler
+                0x080029d8                DMA1_Stream0_IRQHandler
+                0x080029d8                CAN1_TX_IRQHandler
+                0x080029d8                EXTI4_IRQHandler
+                0x080029d8                OTG_HS_EP1_OUT_IRQHandler
+                0x080029d8                WWDG_IRQHandler
+                0x080029d8                TIM2_IRQHandler
+                0x080029d8                OTG_FS_WKUP_IRQHandler
+                0x080029d8                TIM1_TRG_COM_TIM11_IRQHandler
+                0x080029d8                OTG_HS_IRQHandler
+                0x080029d8                EXTI1_IRQHandler
+                0x080029d8                USART2_IRQHandler
+                0x080029d8                I2C2_ER_IRQHandler
+                0x080029d8                DMA2_Stream1_IRQHandler
+                0x080029d8                CAN1_SCE_IRQHandler
+                0x080029d8                FLASH_IRQHandler
+                0x080029d8                DMA2_Stream4_IRQHandler
+                0x080029d8                USART1_IRQHandler
+                0x080029d8                OTG_FS_IRQHandler
+                0x080029d8                SPI3_IRQHandler
+                0x080029d8                DMA1_Stream4_IRQHandler
+                0x080029d8                I2C1_ER_IRQHandler
+                0x080029d8                FMC_IRQHandler
+                0x080029d8                DMA2_Stream6_IRQHandler
+                0x080029d8                SAI1_IRQHandler
+                0x080029d8                DMA1_Stream3_IRQHandler
+                0x080029d8                FMPI2C1_Error_IRQHandler
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x080029da        0x2 
+ .rodata.AHBPrescTable
+                0x080029dc       0x10 VisualGDB/Debug/system_stm32f4xx.o
+                0x080029dc                AHBPrescTable
+ *(.glue_7)
+ .glue_7        0x080029ec        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080029ec        0x0 linker stubs
+ *(.init)
+ .init          0x080029ec        0x4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crti.o
+                0x080029ec                _init
+ .init          0x080029f0        0x8 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtn.o
+ *(.fini)
+ .fini          0x080029f8        0x4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crti.o
+                0x080029f8                _fini
+ .fini          0x080029fc        0x8 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtn.o
+                0x08002a04                . = ALIGN (0x4)
+                0x08002a04                _etext = .
+
+.eh_frame       0x08002a04        0x0
+ .eh_frame      0x08002a04        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+
+.vfp11_veneer   0x08002a04        0x0
+ .vfp11_veneer  0x08002a04        0x0 linker stubs
+
+.v4_bx          0x08002a04        0x0
+ .v4_bx         0x08002a04        0x0 linker stubs
+
+.iplt           0x08002a04        0x0
+ .iplt          0x08002a04        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+
+.ARM.extab      0x08002a04        0x0
+                0x08002a04                . = ALIGN (0x4)
+ *(.ARM.extab)
+ *(.gnu.linkonce.armextab.*)
+                0x08002a04                . = ALIGN (0x4)
+
+.exidx          0x08002a04        0x8
+                0x08002a04                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__exidx_start, .)
+ *(.ARM.exidx*)
+ .ARM.exidx     0x08002a04        0x8 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+                0x08002a0c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__exidx_end, .)
+
+.rel.dyn        0x08002a0c        0x0
+ .rel.iplt      0x08002a0c        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+
+.ARM.attributes
+                0x08002a0c       0x35
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x08002a0c       0x23 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crti.o
+ .ARM.attributes
+                0x08002a2f       0x39 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+ .ARM.attributes
+                0x08002a68       0x39 VisualGDB/Debug/eeprom.o
+ .ARM.attributes
+                0x08002aa1       0x39 VisualGDB/Debug/main.o
+ .ARM.attributes
+                0x08002ada       0x39 VisualGDB/Debug/stm32f4xx_it.o
+ .ARM.attributes
+                0x08002b13       0x39 VisualGDB/Debug/system_stm32f4xx.o
+ .ARM.attributes
+                0x08002b4c       0x39 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .ARM.attributes
+                0x08002b85       0x39 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .ARM.attributes
+                0x08002bbe       0x39 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .ARM.attributes
+                0x08002bf7       0x39 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .ARM.attributes
+                0x08002c30       0x39 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .ARM.attributes
+                0x08002c69       0x39 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .ARM.attributes
+                0x08002ca2       0x39 VisualGDB/Debug/stm32f4xx_hal.o
+ .ARM.attributes
+                0x08002cdb       0x39 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .ARM.attributes
+                0x08002d14       0x39 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .ARM.attributes
+                0x08002d4d       0x39 VisualGDB/Debug/startup_stm32f446xx.o
+ .ARM.attributes
+                0x08002d86       0x23 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x08002da9       0x39 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x08002de2       0x23 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x08002e05       0x39 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x08002e3e       0x37 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtend.o
+ .ARM.attributes
+                0x08002e75       0x23 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtn.o
+
+.preinit_array  0x08002a0c        0x0
+                0x08002a0c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08002a0c                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08002a0c        0x4
+                0x08002a0c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08002a0c        0x4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+                0x08002a10                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08002a10        0x4
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ .fini_array    0x08002a10        0x4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+ *(SORT(.fini_array.*))
+                [!provide]                PROVIDE (__fini_array_end, .)
+                0x08002a14                . = ALIGN (0x4)
+                0x08002a14                _sidata = .
+
+.data           0x20000000       0x18 load address 0x08002a14
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+                [!provide]                PROVIDE (__data_start__, _sdata)
+ *(.data)
+ *(.data*)
+ .data.VirtAddVarTab
+                0x20000000        0x6 VisualGDB/Debug/main.o
+                0x20000000                VirtAddVarTab
+ *fill*         0x20000006        0x2 
+ .data.SystemCoreClock
+                0x20000008        0x4 VisualGDB/Debug/system_stm32f4xx.o
+                0x20000008                SystemCoreClock
+ .data.GPIO_PORT
+                0x2000000c        0x4 VisualGDB/Debug/stm32f4xx_nucleo.o
+                0x2000000c                GPIO_PORT
+ .data.uwTickPrio
+                0x20000010        0x4 VisualGDB/Debug/stm32f4xx_hal.o
+                0x20000010                uwTickPrio
+ .data.uwTickFreq
+                0x20000014        0x1 VisualGDB/Debug/stm32f4xx_hal.o
+                0x20000014                uwTickFreq
+                0x20000018                . = ALIGN (0x4)
+ *fill*         0x20000015        0x3 
+                0x20000018                _edata = .
+                [!provide]                PROVIDE (__data_end__, _edata)
+
+.tm_clone_table
+                0x20000018        0x0 load address 0x08002a2c
+ .tm_clone_table
+                0x20000018        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+ .tm_clone_table
+                0x20000018        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtend.o
+
+.igot.plt       0x20000018        0x0 load address 0x08002a2c
+ .igot.plt      0x20000018        0x0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+
+.bss            0x20000018       0x50 load address 0x08002a2c
+                0x20000018                . = ALIGN (0x4)
+                0x20000018                _sbss = .
+                0x20000018                PROVIDE (__bss_start__, _sbss)
+ *(.bss)
+ .bss           0x20000018       0x1c c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+ *(.bss*)
+ .bss.DataVar   0x20000034        0x2 VisualGDB/Debug/eeprom.o
+                0x20000034                DataVar
+ *fill*         0x20000036        0x2 
+ .bss.VarDataTab
+                0x20000038        0x6 VisualGDB/Debug/main.o
+                0x20000038                VarDataTab
+ .bss.VarDataTmp
+                0x2000003e        0x2 VisualGDB/Debug/main.o
+                0x2000003e                VarDataTmp
+ *(COMMON)
+ COMMON         0x20000040        0x2 VisualGDB/Debug/main.o
+                0x20000040                VarValue
+ *fill*         0x20000042        0x2 
+ COMMON         0x20000044       0x20 VisualGDB/Debug/stm32f4xx_hal_flash.o
+                0x20000044                pFlash
+ COMMON         0x20000064        0x4 VisualGDB/Debug/stm32f4xx_hal.o
+                0x20000064                uwTick
+                0x20000068                . = ALIGN (0x4)
+                0x20000068                _ebss = .
+                0x20000068                PROVIDE (__bss_end__, _ebss)
+                [!provide]                PROVIDE (end, .)
+
+.heap           0x20000068        0x0
+                0x20000068                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__heap_start__, .)
+ *(.heap)
+                0x20000068                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__heap_end__, .)
+
+.reserved_for_stack
+                0x20000068        0x0
+                0x20000068                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__reserved_for_stack_start__, .)
+ *(.reserved_for_stack)
+                0x20000068                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__reserved_for_stack_end__, .)
+OUTPUT(../VisualGDB/Debug/WheelChair elf32-littlearm)
+
+.comment        0x00000000       0x11
+ .comment       0x00000000       0x11 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtbegin.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000011       0x12 VisualGDB/Debug/eeprom.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/main.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_it.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/system_stm32f4xx.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_hal.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .comment       0x00000011       0x12 VisualGDB/Debug/startup_stm32f446xx.o
+ .comment       0x00000011       0x12 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .comment       0x00000011       0x12 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+ .comment       0x00000011       0x12 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4/crtend.o
+
+.debug_info     0x00000000     0xe676
+ .debug_info    0x00000000      0xd77 VisualGDB/Debug/eeprom.o
+ .debug_info    0x00000d77      0xdb3 VisualGDB/Debug/main.o
+ .debug_info    0x00001b2a      0x9c6 VisualGDB/Debug/stm32f4xx_it.o
+ .debug_info    0x000024f0      0xd49 VisualGDB/Debug/system_stm32f4xx.o
+ .debug_info    0x00003239     0x1dc6 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .debug_info    0x00004fff     0x1196 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .debug_info    0x00006195     0x1600 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .debug_info    0x00007795      0xdc6 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .debug_info    0x0000855b     0x10f7 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .debug_info    0x00009652     0x1045 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .debug_info    0x0000a697     0x1172 VisualGDB/Debug/stm32f4xx_hal.o
+ .debug_info    0x0000b809      0xf5c VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .debug_info    0x0000c765      0xfc5 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .debug_info    0x0000d72a       0xf8 VisualGDB/Debug/startup_stm32f446xx.o
+ .debug_info    0x0000d822       0x26 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x0000d848      0xcff c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x0000e547       0x26 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000e56d      0x109 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+
+.debug_abbrev   0x00000000     0x25db
+ .debug_abbrev  0x00000000      0x267 VisualGDB/Debug/eeprom.o
+ .debug_abbrev  0x00000267      0x24a VisualGDB/Debug/main.o
+ .debug_abbrev  0x000004b1      0x1c6 VisualGDB/Debug/stm32f4xx_it.o
+ .debug_abbrev  0x00000677      0x202 VisualGDB/Debug/system_stm32f4xx.o
+ .debug_abbrev  0x00000879      0x300 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .debug_abbrev  0x00000b79      0x279 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .debug_abbrev  0x00000df2      0x39c VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .debug_abbrev  0x0000118e      0x319 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .debug_abbrev  0x000014a7      0x302 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .debug_abbrev  0x000017a9      0x308 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .debug_abbrev  0x00001ab1      0x2ba VisualGDB/Debug/stm32f4xx_hal.o
+ .debug_abbrev  0x00001d6b      0x2ad VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .debug_abbrev  0x00002018      0x286 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .debug_abbrev  0x0000229e       0xc2 VisualGDB/Debug/startup_stm32f446xx.o
+ .debug_abbrev  0x00002360       0x14 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x00002374      0x199 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x0000250d       0x14 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00002521       0xba c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+
+.debug_aranges  0x00000000      0x7d8
+ .debug_aranges
+                0x00000000       0x58 VisualGDB/Debug/eeprom.o
+ .debug_aranges
+                0x00000058       0x30 VisualGDB/Debug/main.o
+ .debug_aranges
+                0x00000088       0x60 VisualGDB/Debug/stm32f4xx_it.o
+ .debug_aranges
+                0x000000e8       0x28 VisualGDB/Debug/system_stm32f4xx.o
+ .debug_aranges
+                0x00000110      0x108 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .debug_aranges
+                0x00000218       0x78 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .debug_aranges
+                0x00000290      0x118 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .debug_aranges
+                0x000003a8       0xa0 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .debug_aranges
+                0x00000448       0x88 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .debug_aranges
+                0x000004d0       0xc8 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .debug_aranges
+                0x00000598       0xe0 VisualGDB/Debug/stm32f4xx_hal.o
+ .debug_aranges
+                0x00000678       0x60 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .debug_aranges
+                0x000006d8       0x58 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .debug_aranges
+                0x00000730       0x28 VisualGDB/Debug/startup_stm32f446xx.o
+ .debug_aranges
+                0x00000758       0x20 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x00000778       0x20 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x00000798       0x20 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x000007b8       0x20 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+
+.debug_ranges   0x00000000      0x758
+ .debug_ranges  0x00000000       0x48 VisualGDB/Debug/eeprom.o
+ .debug_ranges  0x00000048       0x20 VisualGDB/Debug/main.o
+ .debug_ranges  0x00000068       0x50 VisualGDB/Debug/stm32f4xx_it.o
+ .debug_ranges  0x000000b8       0x18 VisualGDB/Debug/system_stm32f4xx.o
+ .debug_ranges  0x000000d0       0xf8 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .debug_ranges  0x000001c8       0x68 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .debug_ranges  0x00000230      0x108 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .debug_ranges  0x00000338       0x90 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .debug_ranges  0x000003c8       0x78 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .debug_ranges  0x00000440       0xb8 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .debug_ranges  0x000004f8       0xd0 VisualGDB/Debug/stm32f4xx_hal.o
+ .debug_ranges  0x000005c8       0x50 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .debug_ranges  0x00000618       0x48 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .debug_ranges  0x00000660       0x18 VisualGDB/Debug/startup_stm32f446xx.o
+ .debug_ranges  0x00000678       0xe0 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+
+.debug_line     0x00000000     0x4ad7
+ .debug_line    0x00000000      0x4b6 VisualGDB/Debug/eeprom.o
+ .debug_line    0x000004b6      0x4a7 VisualGDB/Debug/main.o
+ .debug_line    0x0000095d      0x2ee VisualGDB/Debug/stm32f4xx_it.o
+ .debug_line    0x00000c4b      0x297 VisualGDB/Debug/system_stm32f4xx.o
+ .debug_line    0x00000ee2      0x730 VisualGDB/Debug/stm32f4xx_nucleo.o
+ .debug_line    0x00001612      0x7ae VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .debug_line    0x00001dc0      0x6bb VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .debug_line    0x0000247b      0x588 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .debug_line    0x00002a03      0x620 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .debug_line    0x00003023      0x61f VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .debug_line    0x00003642      0x581 VisualGDB/Debug/stm32f4xx_hal.o
+ .debug_line    0x00003bc3      0x4a0 VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .debug_line    0x00004063      0x573 VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .debug_line    0x000045d6      0x101 VisualGDB/Debug/startup_stm32f446xx.o
+ .debug_line    0x000046d7       0x6a c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x00004741      0x268 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .debug_line    0x000049a9       0x6a c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00004a13       0xc4 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+
+.debug_str      0x00000000     0x46cd
+ .debug_str     0x00000000      0x6f5 VisualGDB/Debug/eeprom.o
+                                0x7ad (size before relaxing)
+ .debug_str     0x000006f5      0x297 VisualGDB/Debug/main.o
+                                0x87d (size before relaxing)
+ .debug_str     0x0000098c       0xa3 VisualGDB/Debug/stm32f4xx_it.o
+                                0x62a (size before relaxing)
+ .debug_str     0x00000a2f       0xa7 VisualGDB/Debug/system_stm32f4xx.o
+                                0x74f (size before relaxing)
+ .debug_str     0x00000ad6      0xeec VisualGDB/Debug/stm32f4xx_nucleo.o
+                               0x168d (size before relaxing)
+ .debug_str     0x000019c2      0x432 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+                                0xc12 (size before relaxing)
+ .debug_str     0x00001df4      0x430 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+                               0x1096 (size before relaxing)
+ .debug_str     0x00002224      0x308 VisualGDB/Debug/stm32f4xx_hal_flash.o
+                                0x95e (size before relaxing)
+ .debug_str     0x0000252c      0x191 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+                                0xb01 (size before relaxing)
+ .debug_str     0x000026bd      0x335 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+                                0xa9d (size before relaxing)
+ .debug_str     0x000029f2      0x320 VisualGDB/Debug/stm32f4xx_hal.o
+                                0xf9f (size before relaxing)
+ .debug_str     0x00002d12      0x1be VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+                                0x93b (size before relaxing)
+ .debug_str     0x00002ed0      0x1ba VisualGDB/Debug/stm32f4xx_hal_gpio.o
+                                0x950 (size before relaxing)
+ .debug_str     0x0000308a       0xf3 VisualGDB/Debug/startup_stm32f446xx.o
+                                0x1bc (size before relaxing)
+ .debug_str     0x0000317d       0xbd c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x0000323a     0x12cc c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+                               0x13e1 (size before relaxing)
+ .debug_str     0x00004506       0x3a c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_dvmd_tls.o)
+                                 0xc1 (size before relaxing)
+ .debug_str     0x00004540      0x18d c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+                                0x228 (size before relaxing)
+
+.debug_frame    0x00000000     0x1bcc
+ .debug_frame   0x00000000      0x140 VisualGDB/Debug/eeprom.o
+ .debug_frame   0x00000140       0x6c VisualGDB/Debug/main.o
+ .debug_frame   0x000001ac      0x10c VisualGDB/Debug/stm32f4xx_it.o
+ .debug_frame   0x000002b8       0x58 VisualGDB/Debug/system_stm32f4xx.o
+ .debug_frame   0x00000310      0x41c VisualGDB/Debug/stm32f4xx_nucleo.o
+ .debug_frame   0x0000072c      0x1e0 VisualGDB/Debug/stm32f4xx_hal_rcc_ex.o
+ .debug_frame   0x0000090c      0x498 VisualGDB/Debug/stm32f4xx_hal_cortex.o
+ .debug_frame   0x00000da4      0x274 VisualGDB/Debug/stm32f4xx_hal_flash.o
+ .debug_frame   0x00001018      0x1f0 VisualGDB/Debug/stm32f4xx_hal_rcc.o
+ .debug_frame   0x00001208      0x334 VisualGDB/Debug/stm32f4xx_hal_flash_ex.o
+ .debug_frame   0x0000153c      0x33c VisualGDB/Debug/stm32f4xx_hal.o
+ .debug_frame   0x00001878      0x14c VisualGDB/Debug/stm32f4xx_hal_pwr_ex.o
+ .debug_frame   0x000019c4      0x14c VisualGDB/Debug/stm32f4xx_hal_gpio.o
+ .debug_frame   0x00001b10       0x30 VisualGDB/Debug/startup_stm32f446xx.o
+ .debug_frame   0x00001b40       0x2c c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00001b6c       0x34 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00001ba0       0x2c c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
+
+.debug_loc      0x00000000      0xeed
+ .debug_loc     0x00000000      0xe4b c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/thumb/fpu/cortex_m4\libgcc.a(_udivmoddi4.o)
+ .debug_loc     0x00000e4b       0xa2 c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-eabi/7.2.0/../../../../arm-eabi/lib/thumb/fpu/cortex_m4\libc_nano.a(lib_a-init.o)
